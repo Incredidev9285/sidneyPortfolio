@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.29bc8131.css",
+    "main.js": "/static/js/main.81c2fa28.js",
+    "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/suicide.png": "/static/media/suicide.2a24593c37d20a1415be.png",
+    "static/media/chatify.png": "/static/media/chatify.f71d9d3ee9d2dcc361d8.png",
+    "static/media/sidneycampos.pdf": "/static/media/sidneycampos.768957aaf0fd88296677.pdf",
+    "static/media/codeEditor.png": "/static/media/codeEditor.5cc6381db4996dedcc44.png",
+    "static/media/leaf.png": "/static/media/leaf.4957e3463f587a9ee05d.png",
+    "static/media/emotion.png": "/static/media/emotion.5dffb40641718586193d.png",
+    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/avatar.jpg": "/static/media/avatar.2dac45369d75be00c2d6.jpg",
+    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/pre.svg": "/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/index.html",
+    "main.29bc8131.css.map": "/static/css/main.29bc8131.css.map",
+    "main.81c2fa28.js.map": "/static/js/main.81c2fa28.js.map",
+    "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29bc8131.css",
+    "static/js/main.81c2fa28.js"
+  ]
+}
